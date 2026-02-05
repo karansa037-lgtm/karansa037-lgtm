@@ -4,10 +4,10 @@
 
 *Data Analysis*
 
-#*Financial Modelling*
+*Financial Modelling*
 
-#*Cybersecurity Research*
+*Cybersecurity Research*
 
-#*Python / R*
+*Python / R*
 
 
