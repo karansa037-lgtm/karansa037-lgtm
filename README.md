@@ -2,12 +2,12 @@
 ## *I am student*
 ## MSc Econometrics & Financial Technology student at the Centre for Budget Studies, CUSAT. I’m passionate about data-driven research, financial analytics, and technology-focused economic solutions.
 
-## *Data Analysis*
+#*Data Analysis*
 
-## *Financial Modelling*
+#*Financial Modelling*
 
-## *Cybersecurity Research*
+#*Cybersecurity Research*
 
-## *Python / R*
+#*Python / R*
 
 
